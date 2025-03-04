@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Reactjs_Rutinas_ejercicios/static/css/main.9fe40f7c.css",
-    "main.js": "/Reactjs_Rutinas_ejercicios/static/js/main.1186767d.js",
+    "main.js": "/Reactjs_Rutinas_ejercicios/static/js/main.1f7dcef6.js",
     "static/js/453.27ae94ae.chunk.js": "/Reactjs_Rutinas_ejercicios/static/js/453.27ae94ae.chunk.js",
     "static/media/vision.jpg": "/Reactjs_Rutinas_ejercicios/static/media/vision.32441514341335eec55f.jpg",
     "static/media/plan1.jpg": "/Reactjs_Rutinas_ejercicios/static/media/plan1.fa7944fd2ca1094b2348.jpg",
@@ -18,11 +18,11 @@
     "static/media/fondo_nosotros.jpg": "/Reactjs_Rutinas_ejercicios/static/media/fondo_nosotros.abf254126c63a69e58d0.jpg",
     "index.html": "/Reactjs_Rutinas_ejercicios/index.html",
     "main.9fe40f7c.css.map": "/Reactjs_Rutinas_ejercicios/static/css/main.9fe40f7c.css.map",
-    "main.1186767d.js.map": "/Reactjs_Rutinas_ejercicios/static/js/main.1186767d.js.map",
+    "main.1f7dcef6.js.map": "/Reactjs_Rutinas_ejercicios/static/js/main.1f7dcef6.js.map",
     "453.27ae94ae.chunk.js.map": "/Reactjs_Rutinas_ejercicios/static/js/453.27ae94ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fe40f7c.css",
-    "static/js/main.1186767d.js"
+    "static/js/main.1f7dcef6.js"
   ]
 }
